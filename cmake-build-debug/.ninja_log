@@ -1,0 +1,22 @@
+# ninja log v5
+1	507	6737716022723054	CMakeFiles/CLionRepository.dir/main.cpp.obj	72948d20b1ab74bc
+510	722	6737716024813402	CLionRepository.exe	513bdfec4012ae10
+3	401	6737718528442535	CMakeFiles/CLionRepository.dir/functions.cpp.obj	78bb94ac517e2ed8
+1	322	6737719253197995	build.ninja	12ffe1fea537d57b
+4	221	6737719260758292	CLionRepository.exe	d26b97fb774e4fa7
+3	390	6737719354800065	CMakeFiles/CLionRepository.dir/functions.cpp.obj	78bb94ac517e2ed8
+391	568	6737719356551464	CLionRepository.exe	d26b97fb774e4fa7
+3	362	6737719505754717	CMakeFiles/CLionRepository.dir/functions.cpp.obj	78bb94ac517e2ed8
+363	558	6737719507664702	CLionRepository.exe	d26b97fb774e4fa7
+3	378	6737719660661603	CMakeFiles/CLionRepository.dir/functions.cpp.obj	78bb94ac517e2ed8
+378	559	6737719662441612	CLionRepository.exe	d26b97fb774e4fa7
+3	357	6737719720507770	CMakeFiles/CLionRepository.dir/functions.cpp.obj	78bb94ac517e2ed8
+358	553	6737719722394317	CLionRepository.exe	d26b97fb774e4fa7
+4	414	6737719850909204	CMakeFiles/CLionRepository.dir/functions.cpp.obj	78bb94ac517e2ed8
+415	706	6737719853659207	CLionRepository.exe	d26b97fb774e4fa7
+4	380	6737719956942682	CMakeFiles/CLionRepository.dir/functions.cpp.obj	78bb94ac517e2ed8
+381	560	6737719958712670	CLionRepository.exe	d26b97fb774e4fa7
+3	432	6737722736162980	CMakeFiles/CLionRepository.dir/functions.cpp.obj	78bb94ac517e2ed8
+432	677	6737722738623308	CLionRepository.exe	d26b97fb774e4fa7
+3	605	6737723349751801	CMakeFiles/CLionRepository.dir/functions.cpp.obj	78bb94ac517e2ed8
+606	845	6737723352141791	CLionRepository.exe	d26b97fb774e4fa7
